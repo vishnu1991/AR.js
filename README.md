@@ -211,6 +211,7 @@ Demo tested on the following browser setups:
 - **Chrome on Android 4.4.2** (works!)
 - **Chrome on Android 5.0** (doesn't work, asks for permission, I see black background, text and a chart)
 - **Safari and Chrome on iOS 8.2 (iPad)** (doesn't work, doesn't ask for permission, I see white background and text)
+- **Safari 11 on iOS 11**
 - **Microsoft Edge on Windows 10** (Chrome on Google Pixel phone to view hologram)
 
 Credits: @HelloDeadline, @sorianog
